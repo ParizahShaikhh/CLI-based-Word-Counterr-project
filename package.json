@@ -1,6 +1,6 @@
 {
-  "name": "ps-cli-based-word-counterr-project",
-  "version": "1.0.0",
+  "name": "ps-cli-based-word-counter-project",
+  "version": "1.2.1",
   "description": "Assignment has been taken from @Panaverse/learn-typescript in baby steps. I have completed 4th project of Word Counter to get First Hand experience on Typescript, Node.js and Inquirer.",
   "main": "index.js",
   "type": "module",
